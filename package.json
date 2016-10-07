@@ -1,0 +1,20 @@
+{
+  "name": "SoundGif",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "ramda": "^0.22.1",
+    "react": "15.3.2",
+    "react-native": "0.34.0",
+    "react-native-router-flux": "^3.35.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0",
+    "redux-persist": "^4.0.0-alpha6",
+    "redux-saga": "^0.12.0",
+    "reduxsauce": "^0.2.0",
+    "seamless-immutable": "^6.1.3"
+  }
+}
