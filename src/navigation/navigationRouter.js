@@ -4,7 +4,7 @@ import React, { Component } from 'react'
 import { Scene, Router } from 'react-native-router-flux'
 
 // Scenes AKA app views
-import SceneOne from '../components/sceneOne'
+import RecordView from '../components/recordView'
 
 // App router
 class NavigationRouter extends Component {
@@ -17,7 +17,7 @@ class NavigationRouter extends Component {
     return (
       <Router>
         <Scene key="root">
-          <Scene initial={true} key='sceneOne' component={SceneOne} title='Scene One'></Scene>
+          <Scene initial={true} key='RecordView' hideNavBar component={RecordView}></Scene>
         </Scene>
       </Router>
     )

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "SoundGif.app"
-               BlueprintName = "SoundGif"
-               ReferencedContainer = "container:SoundGif.xcodeproj">
+               BuildableName = "MicFlags.app"
+               BlueprintName = "MicFlags"
+               ReferencedContainer = "container:MicFlags.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "SoundGifTests.xctest"
-               BlueprintName = "SoundGifTests"
-               ReferencedContainer = "container:SoundGif.xcodeproj">
+               BuildableName = "MicFlagsTests.xctest"
+               BlueprintName = "MicFlagsTests"
+               ReferencedContainer = "container:MicFlags.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "SoundGifTests.xctest"
-               BlueprintName = "SoundGifTests"
-               ReferencedContainer = "container:SoundGif.xcodeproj">
+               BuildableName = "MicFlagsTests.xctest"
+               BlueprintName = "MicFlagsTests"
+               ReferencedContainer = "container:MicFlags.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SoundGif.app"
-            BlueprintName = "SoundGif"
-            ReferencedContainer = "container:SoundGif.xcodeproj">
+            BuildableName = "MicFlags.app"
+            BlueprintName = "MicFlags"
+            ReferencedContainer = "container:MicFlags.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SoundGif.app"
-            BlueprintName = "SoundGif"
-            ReferencedContainer = "container:SoundGif.xcodeproj">
+            BuildableName = "MicFlags.app"
+            BlueprintName = "MicFlags"
+            ReferencedContainer = "container:MicFlags.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SoundGif.app"
-            BlueprintName = "SoundGif"
-            ReferencedContainer = "container:SoundGif.xcodeproj">
+            BuildableName = "MicFlags.app"
+            BlueprintName = "MicFlags"
+            ReferencedContainer = "container:MicFlags.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

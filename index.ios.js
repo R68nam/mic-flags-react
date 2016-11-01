@@ -11,4 +11,4 @@ class RNBase extends Component {
   }
 }
 
-AppRegistry.registerComponent('SoundGif', () => RNBase);
+AppRegistry.registerComponent('MicFlags', () => RNBase);

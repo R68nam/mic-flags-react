@@ -1,4 +1,4 @@
-package com.soundgif;
+package com.micflags;
 
 import android.app.Application;
 import android.util.Log;
